@@ -47,12 +47,10 @@ function Index({ data }) {
       >
         <div className="w-4/5 md:w-3/4 lg:w-7/12 mt-20 font-serif font-hairline self-start">
           <h1 className="text-3xl md:text-5xl text-indigo-700 leading-tight">
-            Serif - Gatsby Small Business Theme.
+            Bank.Reform <br /> The Future of Social Banking.
           </h1>
           <p className="text-base">
-            Multiple content types using Markdown and JSON sources. Responsive
-            design and SCSS. This is a beautiful and artfully designed starting
-            theme.
+            From the persepctive of liberalism, Public Banking is of fundamental human rights. <br /> From the persepctive of positivism, it is simply good policy.
           </p>
         </div>
 
