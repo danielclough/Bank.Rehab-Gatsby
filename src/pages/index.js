@@ -50,7 +50,7 @@ function Index({ data }) {
             Bank.Rehab <br /> The Future of Social Banking.
           </h1>
           <p className="text-base">
-            From the persepctive of liberalism, Public Banking is of fundamental human rights. <br /> From the persepctive of positivism, it is simply good policy.
+            From the persepctive of liberalism, Public Banking is a fundamental human right. <br /> From the persepctive of positivism, it is simply good policy.
           </p>
         </div>
 
@@ -115,8 +115,8 @@ function Index({ data }) {
                 <div className="w-16 h-16 mb-4">
                   <img alt="branding" src={branding} />
                 </div>
-                <p className="text-2xl w-full">Free Consultation</p>
-                <p>New clients recieve an obligation free consultation.</p>
+                <p className="text-2xl w-full">People First</p>
+                <p>Money was made to serve humanity, not vise versa.</p>
               </div>
             </div>
             <div className="w-full md:w-1/2 lg:w-1/3 mt-2">
@@ -124,8 +124,8 @@ function Index({ data }) {
                 <div className="w-16 h-16 mb-4">
                   <img alt="processing" src={processing} />
                 </div>
-                <p className="text-2xl w-full">Certified Accountants</p>
-                <p>All members of our team are certified accountants.</p>
+                <p className="text-2xl w-full">Change State Laws</p>
+                <p>Public Banking should rest on the principle of subsidarity.</p>
               </div>
             </div>
             <div className="w-full md:w-1/2 lg:w-1/3 mt-2">
@@ -133,8 +133,8 @@ function Index({ data }) {
                 <div className="w-16 h-16 mb-4">
                   <img alt="modeling" src={modeling} />
                 </div>
-                <p className="text-2xl w-full">Tax Compliance</p>
-                <p>We stay up to date on the latest changes to the tax code.</p>
+                <p className="text-2xl w-full">Co-operation</p>
+                <p>Public Banking supports workplace democracy and cooperative economics.</p>
               </div>
             </div>
           </div>

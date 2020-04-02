@@ -25,7 +25,7 @@ const Footer = ({ className, ...props }) => {
           <strong className="font-bold">Phone: </strong>
           (758) 249-3546
           <strong className="ml-3 font-bold">Email: </strong>
-          help@Bank.Rehab
+          Help@Bank.Rehab
         </div>
         <div>
           <Link to="/" className="hover:underline">
