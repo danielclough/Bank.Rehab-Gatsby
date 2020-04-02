@@ -5,7 +5,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: '/team/rick-lines.jpg'
 jobtitle: 'Activist'
-email: 'rick@bank.reform'
+email: 'rick@Bank.Rehab'
 linkedinurl: 'www.linkedin.com/ricklines'
 weight: 1
 ---

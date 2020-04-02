@@ -10,12 +10,12 @@ const Footer = ({ className, ...props }) => {
   return (
     <>
       <div className={className} {...props}>
-        <div className="flex-initial text-xl font-semibold">Bank.Reform</div>
+        <div className="flex-initial text-xl font-semibold">Bank.Rehab</div>
         <div>
           <ul className="flex flex-col md:flex-row text-sm -mx-3 font-medium">
             <li className="mx-3"><Link to="/">Home</Link></li>
             <li className="mx-3"><Link to="/contact">Contact</Link></li>
-            <li className="mx-3">©2020 Bank.Reform</li>
+            <li className="mx-3">©2020 Bank.Rehab</li>
           </ul>
         </div>
       </div>
@@ -25,11 +25,11 @@ const Footer = ({ className, ...props }) => {
           <strong className="font-bold">Phone: </strong>
           (758) 249-3546
           <strong className="ml-3 font-bold">Email: </strong>
-          help@Bank.Reform
+          help@Bank.Rehab
         </div>
         <div>
           <Link to="/" className="hover:underline">
-            Bank.Reform
+            Bank.Rehab
           </Link>
         </div>
       </div>

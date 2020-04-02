@@ -5,7 +5,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: '/team/danielclough.jpg'
 jobtitle: 'Full Stack Tech Lead'
-email: 'daniel@bank.reform'
+email: 'daniel@Bank.Rehab'
 linkedinurl: 'www.linkedin.com/danielclough'
 weight: 2
 ---

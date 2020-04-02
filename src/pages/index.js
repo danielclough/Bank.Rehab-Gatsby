@@ -47,7 +47,7 @@ function Index({ data }) {
       >
         <div className="w-4/5 md:w-3/4 lg:w-7/12 mt-20 font-serif font-hairline self-start">
           <h1 className="text-3xl md:text-5xl text-indigo-700 leading-tight">
-            Bank.Reform <br /> The Future of Social Banking.
+            Bank.Rehab <br /> The Future of Social Banking.
           </h1>
           <p className="text-base">
             From the persepctive of liberalism, Public Banking is of fundamental human rights. <br /> From the persepctive of positivism, it is simply good policy.
@@ -69,7 +69,7 @@ function Index({ data }) {
               </p>
               <p>
                 <strong>Email: </strong>
-                Help@Bank.Reform
+                Help@Bank.Rehab
               </p>
             </div>
             <div className="flex-initial mt-6 sm:mt-0">

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Bank.Reform`,
+    title: `Bank.Rehab`,
     description: `We aim to reform National Public Banking`,
     author: `Daniel Clough`
   },
@@ -9,8 +9,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Bank.Reform`,
-        short_name: `Bank.Reform`,
+        name: `Bank.Rehab`,
+        short_name: `Bank.Rehab`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#4dc0b5`,

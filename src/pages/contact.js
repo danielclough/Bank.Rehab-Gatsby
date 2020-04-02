@@ -24,7 +24,7 @@ const Contact = () => {
             <strong>Phone:</strong> (758) 249-3546
           </p>
           <p>
-            <strong>Email: </strong>Help@Bank.Reform
+            <strong>Email: </strong>Help@Bank.Rehab
           </p>
         </div>
 
