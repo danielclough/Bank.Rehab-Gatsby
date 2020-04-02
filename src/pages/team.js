@@ -49,8 +49,7 @@ const Team = ({data}) => {
             Meet The Team
           </h1>
           <p className="text-base">
-            Our team of qualified accountants and financial consultants can help
-            your business at any stage of it’s growth.
+            Together we will change the world! 
           </p>
         </div>
 

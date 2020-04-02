@@ -1,3 +1,15 @@
+html {
+  font-family: Serif;
+}
+
+.font-sans {
+  font-family: Serif !important;
+}
+
+.font-semibold {
+  font-family: Liberation Serif;
+}
+
 /**
  * This injects Tailwind's base styles, which is a combination of
  * Normalize.css and some additional base styles.

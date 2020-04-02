@@ -11,7 +11,7 @@ import SEO from "../components/seo";
 
 const StyledButton = ({ className, children, ...props }) => {
   className = cx(
-    "py-2 px-4 bg-indigo-700 hover:bg-indigo-600 text-base text-white font-bold uppercase rounded shadow-md hover:-translate-1",
+    "py-2 px-4 bg-orange-500 hover:bg-orange-500 text-base text-white font-bold uppercase rounded shadow-md hover:-translate-1",
     className
   );
   return (
@@ -65,11 +65,11 @@ function Index({ data }) {
             <div className="flex-1">
               <p>
                 <strong>Phone: </strong>
-                XXX XXX XXX
+                (758) 249-3546
               </p>
               <p>
                 <strong>Email: </strong>
-                xxx@xxx.com
+                Help@Bank.Reform
               </p>
             </div>
             <div className="flex-initial mt-6 sm:mt-0">
