@@ -1,6 +1,6 @@
 ---
-path: '/services/business-advisory'
-title: 'Business Advisory'
+path: '/services/business-loans'
+title: 'Business Loans'
 date: 2018-11-28T15:14:39+10:00
 image: '/services/default.png'
 featured: true

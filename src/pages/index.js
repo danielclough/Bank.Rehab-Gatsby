@@ -11,7 +11,7 @@ import SEO from "../components/seo";
 
 const StyledButton = ({ className, children, ...props }) => {
   className = cx(
-    "py-2 px-4 bg-indigo-700 hover:bg-indigo-600 text-base text-white font-bold uppercase rounded shadow-md hover:-translate-1",
+    "py-2 px-4 bg-orange-500 hover:bg-orange-500 text-base text-white font-bold uppercase rounded shadow-md hover:-translate-1",
     className
   );
   return (
@@ -47,12 +47,10 @@ function Index({ data }) {
       >
         <div className="w-4/5 md:w-3/4 lg:w-7/12 mt-20 font-serif font-hairline self-start">
           <h1 className="text-3xl md:text-5xl text-indigo-700 leading-tight">
-            Serif - Gatsby Small Business Theme.
+            Bank.Rehab <br /> The Future of Social Banking.
           </h1>
           <p className="text-base">
-            Multiple content types using Markdown and JSON sources. Responsive
-            design and SCSS. This is a beautiful and artfully designed starting
-            theme.
+            From the persepctive of liberalism, Public Banking is a fundamental human right. <br /> From the persepctive of positivism, it is simply good policy.
           </p>
         </div>
 
@@ -67,11 +65,11 @@ function Index({ data }) {
             <div className="flex-1">
               <p>
                 <strong>Phone: </strong>
-                XXX XXX XXX
+                (758) 249-3546
               </p>
               <p>
                 <strong>Email: </strong>
-                xxx@xxx.com
+                Help@Bank.Rehab
               </p>
             </div>
             <div className="flex-initial mt-6 sm:mt-0">
@@ -117,8 +115,8 @@ function Index({ data }) {
                 <div className="w-16 h-16 mb-4">
                   <img alt="branding" src={branding} />
                 </div>
-                <p className="text-2xl w-full">Free Consultation</p>
-                <p>New clients recieve an obligation free consultation.</p>
+                <p className="text-2xl w-full">People First</p>
+                <p>Money was made to serve humanity, not vise versa.</p>
               </div>
             </div>
             <div className="w-full md:w-1/2 lg:w-1/3 mt-2">
@@ -126,8 +124,8 @@ function Index({ data }) {
                 <div className="w-16 h-16 mb-4">
                   <img alt="processing" src={processing} />
                 </div>
-                <p className="text-2xl w-full">Certified Accountants</p>
-                <p>All members of our team are certified accountants.</p>
+                <p className="text-2xl w-full">Change State Laws</p>
+                <p>Public Banking should rest on the principle of subsidarity.</p>
               </div>
             </div>
             <div className="w-full md:w-1/2 lg:w-1/3 mt-2">
@@ -135,8 +133,8 @@ function Index({ data }) {
                 <div className="w-16 h-16 mb-4">
                   <img alt="modeling" src={modeling} />
                 </div>
-                <p className="text-2xl w-full">Tax Compliance</p>
-                <p>We stay up to date on the latest changes to the tax code.</p>
+                <p className="text-2xl w-full">Co-operation</p>
+                <p>Public Banking supports workplace democracy and cooperative economics.</p>
               </div>
             </div>
           </div>

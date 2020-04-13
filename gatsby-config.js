@@ -1,16 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Tailwind Serif`,
-    description: `Gatsby starter styled with Tailwind`,
-    author: `@windedge`
+    title: `Bank.Rehab`,
+    description: `We aim to reform National Public Banking`,
+    author: `Daniel Clough`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-tailwind--serif`,
-        short_name: `serif`,
+        name: `Bank.Rehab`,
+        short_name: `Bank.Rehab`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#4dc0b5`,

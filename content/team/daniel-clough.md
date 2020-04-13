@@ -1,13 +1,13 @@
 ---
-path: '/team/peter-van-eijk'
-title: 'Peter Van Eijk'
+path: '/team/daniel-clough'
+title: 'Daniel Clough'
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: '/team/peter-van-eijk-711986-unsplash.jpg'
-jobtitle: 'Director'
-email: 'peter@test.com'
-linkedinurl: 'www.linkedin.com/pvanijk'
-weight: 1
+image: '/team/danielclough.jpg'
+jobtitle: 'Full Stack Tech Lead'
+email: 'daniel@Bank.Rehab'
+linkedinurl: 'www.linkedin.com/danielclough'
+weight: 2
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
